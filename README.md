@@ -16,16 +16,22 @@ projetos práticos. Acredito que aprender continuamente e transformar ideias em 
 <br>
 <p>📚 Cada projeto deste perfil representa uma etapa da minha evolução como desenvolvedor. Estou sempre em busca de novos desafios, boas práticas e tecnologias que me permitam crescer profissionalmente e entregar soluções cada vez melhores.</p>
 <br>
-<h2>GitHub Stats</h2>
-![Jonas GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasFilhoDev&show_icons=true&theme=tokyonight&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasFilhoDev&layout=compact&theme=tokyonight&locale=pt-br)
-<br>
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasFilhoDev&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasFilhoDev&layout=compact&theme=tokyonight&locale=pt-br"/>
+</p>
+<br>
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/jonasfilhodev/
-- E-mail: jonasfilho1985@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasfilhodev)
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonasfilho.dev.br)
+
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasfilho1985@gmail.com)
+<br>
+<br>
 <h3>🚀 Sempre estudando, aprendendo e evoluindo.</h3>
 
 <h2> Seja muito bem-vindo ao meu GitHub! 🚀</h2>
