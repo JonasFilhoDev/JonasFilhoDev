@@ -30,6 +30,8 @@ projetos práticos. Acredito que aprender continuamente e transformar ideias em 
 
 <h2> Seja muito bem-vindo ao meu GitHub! 🚀</h2>
 ![](https://komarev.com/ghpvc/?username=JonasFilhoDev&color=blueviolet)
+<br>
+<br>
 ## Bora pra cima.✈️✈️
 
 
