@@ -28,7 +28,7 @@ HTML5 | CSS3 | JavaScript
 [Acessar projeto](https://jonasfilhodev.github.io/NBA-Dev/)
 
 -------------------------------------------------------------------
-🛒 DEUZINHO TURISMO
+### 🛒 DEUZINHO TURISMO
 <p>SaaS para gerenciamento e venda de passagens rodoviárias, desenvolvido com área administrativa, autenticação e gerenciamento de informações da operação.</p>
 
 Tecnologias utilizadas:
@@ -56,9 +56,16 @@ React | NodeJS | Postgres | MongoDB | SDK | JWT
 
 
 
-
-
 <h3>🚀 Sempre estudando, aprendendo e evoluindo.</h3>
+
+
+## 📌 Próximos estudos
+
+- Arquitetura de software
+- Testes automatizados
+- Docker
+- CI/CD
+- Boas práticas de código
 
 <h2> Seja muito bem-vindo ao meu GitHub! 🚀</h2>
 
