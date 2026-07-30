@@ -29,10 +29,10 @@ HTML5 | CSS3 | JavaScript
 
 -------------------------------------------------------------------
 🛒 DEUZINHO TURISMO
-SaaS para gerenciamento e venda de passagens rodoviárias, desenvolvido com área administrativa, autenticação e gerenciamento de informações da operação.
+<p>SaaS para gerenciamento e venda de passagens rodoviárias, desenvolvido com área administrativa, autenticação e gerenciamento de informações da operação.</p>
 
 Tecnologias utilizadas:
-React | Node | Postgres | MongoDB | SDK | JWT
+React | NodeJS | Postgres | MongoDB | SDK | JWT
 
 🔗 Link do projeto
 [Acessar projeto](frontend-iota-opal-zqdoejb5v8.vercel.app)
