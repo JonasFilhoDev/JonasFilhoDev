@@ -46,11 +46,13 @@ React | Node | Postgres | MongoDB | SDK | JWT
 </p>
 
 
-📫 Contato
+## 📫 Contato
 
-![LinkedIn](https://www.linkedin.com/in/jonasfilhodev)
-![Portfólio](https://jonasfilho.dev.br)
-![E-mail](mailto:jonasfilho1985@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasfilhodev)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonasfilho.dev.br)
+
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasfilho1985@gmail.com)
 
 
 
