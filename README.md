@@ -41,9 +41,12 @@ React | NodeJS | Postgres | MongoDB | SDK | JWT
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonasFilhoDev&theme=tokyonight">
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonasFilhoDev&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonasFilhoDev&theme=tokyonight)
+
+
+
+
 
 
 ## 📫 Contato
