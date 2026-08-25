@@ -35,7 +35,7 @@ Tecnologias utilizadas:
 React | NodeJS | Postgres | MongoDB | SDK | JWT
 
 🔗 Link do projeto
-[Acessar projeto](frontend-iota-opal-zqdoejb5v8.vercel.app)
+[Acessar projeto](https://frontend-iota-opal-zqdoejb5v8.vercel.app)
 
 <br>
 
