@@ -1,3 +1,5 @@
+> **Leia em:** [English](docs/README.en.md) · [Español](docs/README.es.md)
+
 ## Olá, eu sou Jonas Filho (JF Dev)
 
 Desenvolvedor Full Stack. Construo aplicações React no front-end e APIs Node.js no back-end, e opero a infraestrutura onde elas rodam — servidor Linux na Oracle Cloud, com nginx, TLS, autenticação e publicação automatizada.

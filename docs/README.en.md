@@ -1,3 +1,5 @@
+> **Read this in:** [Português](../README.md) · [Español](README.es.md)
+
 ## Hi, I'm Jonas Filho (JF Dev)
 
 Full Stack Developer. I build React applications on the front end and Node.js APIs on the back end, and I run the infrastructure they sit on — a Linux server on Oracle Cloud, with nginx, TLS, basic auth and automated publishing.
